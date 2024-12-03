@@ -1,0 +1,20 @@
+h1 {
+color: floral-white;
+}
+
+.container {
+background-color: skyblue;
+}
+
+
+body {
+	background-color: whitesmoke;
+    color: brown;
+    font-family: monospace;
+}
+img {
+	width: 20%;
+	border-radius: 16px;
+}
+
+/*style for image*/
